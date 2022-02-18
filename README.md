@@ -1,3 +1,1 @@
-##                                                                       EE535P-Systems Design
-
-# Emperical Study of Random Projection
+# Title:-Emperical Study of Random Projection
