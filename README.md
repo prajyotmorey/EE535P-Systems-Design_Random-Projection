@@ -6,7 +6,7 @@
 ## Folder Contains
    
    * System_Design.ipynb---------->Code of Project
-   * Readme.md------->for Instruction
+   * Readme.md------->For Instruction
    * Report.pdf------>Report of given Project
    * data.csv-------->Microsoft PPT
 
