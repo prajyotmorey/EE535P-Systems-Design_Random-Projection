@@ -5,8 +5,8 @@
 
 ## Folder Contains
    
-   * Readme.md---------------------------------------------->For Instruction
-   * System_Design.ipynb------------------------------------>Code of Project
+   * Readme.md--------------------------------------------->For Instruction
+   * System_Design.ipynb----------------------------------->Code of Project
    * T21009_Prajyot Morey_SD_FinalEval-Report.pdf------>Report of given Project
    * T21009_Prajyot Morey_SD_FinalEval-PPT------------->Microsoft PPT
 
