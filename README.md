@@ -5,10 +5,10 @@
 
 ## Folder Contains
    
-   * System_Design.ipynb---------->Code of Project
-   * Readme.md------->For Instruction
-   * Report.pdf------>Report of given Project
-   * T21009_Prajyot Morey_Mid-Evaluation-PPT.pptx-------->Microsoft PPT
+   * Readme.md----------------------------------------->For Instruction
+   * System_Design.ipynb------------------------------->Code of Project
+   * T21009_Prajyot Morey_SD_FinalEval-Report.pdf------>Report of given Project
+   * T21009_Prajyot Morey_SD_FinalEval-PPT------------->Microsoft PPT
 
 
 
